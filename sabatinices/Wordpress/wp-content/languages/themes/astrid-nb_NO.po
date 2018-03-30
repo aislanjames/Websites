@@ -1,0 +1,900 @@
+# Translation of Themes - Astrid in Norwegian (Bokmål)
+# This file is distributed under the same license as the Themes - Astrid package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-11 16:21:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Themes - Astrid\n"
+
+#. Description of the plugin/theme
+msgid "Astrid can help you to quickly create an awesome business website. All the features you need are waiting for you in this business theme: color options, fonts, full width header image, custom widgets, blog options and many other interesting and useful options."
+msgstr "Astrid kan hjelpe deg raskt å lage et fantastisk bedrift nettsted. Alle funksjonene du trenger venter på deg i dette bransje- temaet: fargealternativer, fonter, full bredde header bilde, tilpassede widgets, bloggvalg og mange andre interessante og nyttige alternativer."
+
+#. Theme Name of the plugin/theme
+msgid "Astrid"
+msgstr "Astrid"
+
+#: inc/demo-content/setup.php:57
+msgid "Explore"
+msgstr "Utforsk"
+
+#: inc/demo-content/setup.php:56
+msgid "Welcome to Astrid"
+msgstr "Velkommen til Astrid"
+
+#: inc/demo-content/setup.php:55
+msgid "5 minute setup"
+msgstr "5 minutters oppsett"
+
+#: inc/demo-content/setup.php:15
+msgid "Demo content"
+msgstr "Demo innhold"
+
+#: inc/customizer.php:61 inc/customizer.php:83
+msgid "Video"
+msgstr "Video"
+
+#. Template Name of the plugin/theme
+msgid "Single Pricing Table"
+msgstr "Enkel Pristabell"
+
+#. Template Name of the plugin/theme
+msgid "Single Timeline Event"
+msgstr "Enkel Tidslinje-hendelse"
+
+#. Template Name of the plugin/theme
+msgid "Single Testimonial"
+msgstr "Enkel Vurdering"
+
+#. Template Name of the plugin/theme
+msgid "Single Service"
+msgstr "Enkel Tjeneste"
+
+#. Template Name of the plugin/theme
+msgid "Single Project"
+msgstr "Enkelt Prosjekt"
+
+#. Template Name of the plugin/theme
+msgid "Single Employee"
+msgstr "Enkel Ansatt"
+
+#. Template Name of the plugin/theme
+msgid "Single Client"
+msgstr "Enkel Klient"
+
+#. Template Name of the plugin/theme
+msgid "Widgetized"
+msgstr "Widgetisert"
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr "Full bredde"
+
+#: template-parts/content.php:52
+msgid "Read more"
+msgstr "Les mer"
+
+#: template-parts/content-page.php:28 template-parts/content.php:58
+msgid "Pages:"
+msgstr "Sider:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det ser ikke ut for at vi klarer å finne det du leter etter. Kanskje du skulle vurdere å søke etter det i stede."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men ingenting matchet søkekriteriene dine. Vennligst forsøk igjen med andre søkeord."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar til å publisere ditt første innleggt? <a href=\"%1$s\">Start her</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ingenting Funnet"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:62 template-parts/content-page.php:39
+msgid "Edit %s"
+msgstr "Rediger %s"
+
+#: inc/template-tags.php:36
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:30
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/framework/widgets/video-widget.php:21
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "Lim inn nettadressen til videoen (bare fra et nettverk som støtter oEmbed, som Youtube, Vimeo etc.):"
+
+#: inc/framework/widgets/video-widget.php:7
+msgid "Astrid: Video"
+msgstr "Astrid: Video"
+
+#: inc/framework/widgets/video-widget.php:6
+msgid "Display a video from Youtube, Vimeo etc."
+msgstr "Vis en video fra Youtube, Vimeo etc."
+
+#: inc/framework/widgets/social-widget.php:64
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Velg &mdash;"
+
+#: inc/framework/widgets/social-widget.php:62
+msgid "Select your social menu:"
+msgstr "Velg din sosiale medier meny:"
+
+#: inc/framework/widgets/social-widget.php:60
+msgid "In order to display your social icons in a widget, all you need to do is go to <strong>Appearance > Menus</strong> and create a menu containing links to your social profiles, then assign that menu here. Supported networks: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance etc."
+msgstr "For å vise dine sosiale ikoner i en widget er alt du trenger å gjøre er å gå til <strong>Utseende > Menyer</strong> og lage en meny som inneholder lenker til dine sosiale profiler for så og deretter tildele denne menyen her. Støttede nettverk: Facebook, Twitter, Google Plus, Instagram, drible, Vimeo, Linkedin , YouTube, Flickr, Pinterest , Tumblr, Foursquare , Behance osv."
+
+#: inc/framework/widgets/social-widget.php:52
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Ingen menyer er laget ennå. <a href=\"%s\"> Lag noen</a>"
+
+#: inc/framework/widgets/social-widget.php:6
+msgid "Astrid: Social Profile"
+msgstr "Astrid: Sosial Profil"
+
+#: inc/framework/widgets/social-widget.php:5
+msgid "Display your social profile"
+msgstr "Vis din sosiale profil"
+
+#: inc/framework/widgets/posts-widget.php:123
+msgid "Display post date?"
+msgstr "Vis dato for innlegg?"
+
+#: inc/framework/widgets/posts-widget.php:119
+msgid "Number of posts to show:"
+msgstr "Antall innlegg å vise:"
+
+#: inc/framework/widgets/posts-widget.php:116
+#: inc/framework/widgets/social-widget.php:57
+msgid "Title:"
+msgstr "Tittel"
+
+#: inc/framework/widgets/posts-widget.php:12
+msgid "Astrid: Recent Posts"
+msgstr "Siste Innlegg"
+
+#: inc/framework/widgets/posts-widget.php:11
+msgid "Recent posts with thumbnails"
+msgstr "Siste innlegg med miniatyrbilder"
+
+#: inc/framework/widgets/front-testimonials.php:148
+msgid "See all our testimonials"
+msgstr "Se alle våre attester"
+
+#: inc/framework/widgets/front-testimonials.php:41
+msgid "The text for the button [Defaults to <em>See all our testimonials</em> if left empty]"
+msgstr "Teksten på knappen [Endres til <em> Se alle våre attester </em> hvis tom]"
+
+#: inc/framework/widgets/front-testimonials.php:39
+msgid "The URL for your button [In case you want a button below your testimonials block]"
+msgstr "Webadressen til knappen [I tilfelle du ønsker en knapp under attestblokken]"
+
+#: inc/framework/widgets/front-testimonials.php:35
+msgid "Offset (number of testimonials needs to be different than -1 for this option to work):"
+msgstr "Offset (antall attester må være annerledes enn -1 for at dette alternativet skal fungere):"
+
+#: inc/framework/widgets/front-testimonials.php:33
+msgid "Number of testimonials to show (-1 shows all of them):"
+msgstr "Antall attester å vise (-1 viser alle sammen):"
+
+#: inc/framework/widgets/front-testimonials.php:28
+msgid "Tip: to rearrange the testimonials order, edit each testimonial page and add a value in Page Attributes > Order"
+msgstr "Tips: for å omorganisere rekkefølgen på attestene, rediger hver attest-side og legge til en verdi i Sideegenskaper > Sorter"
+
+#: inc/framework/widgets/front-testimonials.php:27
+msgid "This widget displays all pages that have the Single Testimonial page template assigned to them."
+msgstr "Denne widgeten viser alle sider som har Enslig Attest sidemalen tildelt dem."
+
+#: inc/framework/widgets/front-testimonials.php:12
+msgid "Astrid FP: Testimonials"
+msgstr "Astrid FT: Attester"
+
+#: inc/framework/widgets/front-testimonials.php:11
+msgid "Display your testimonials."
+msgstr "Vis dine attester."
+
+#: inc/framework/widgets/front-skills.php:82
+msgid "Fifth skill value"
+msgstr "Femte ferdighetsverdi"
+
+#: inc/framework/widgets/front-skills.php:77
+msgid "Fifth skill name"
+msgstr "Navn på femte ferdighet"
+
+#: inc/framework/widgets/front-skills.php:71
+msgid "Fourth skill value"
+msgstr "Fjerde ferdighetsverdi"
+
+#: inc/framework/widgets/front-skills.php:66
+msgid "Fourth skill name"
+msgstr "Navn på fjerde ferdighet"
+
+#: inc/framework/widgets/front-skills.php:60
+msgid "Third skill value"
+msgstr "Tredje ferdighetsverdi"
+
+#: inc/framework/widgets/front-skills.php:55
+msgid "Third skill name"
+msgstr "Navn på tredje ferdighet"
+
+#: inc/framework/widgets/front-skills.php:49
+msgid "Second skill value"
+msgstr "Andre ferdighetsverdi"
+
+#: inc/framework/widgets/front-skills.php:44
+msgid "Second skill name"
+msgstr "Navn på andre ferdighet"
+
+#: inc/framework/widgets/front-skills.php:38
+msgid "First skill value"
+msgstr "Første ferdighetsverdi"
+
+#: inc/framework/widgets/front-skills.php:33
+msgid "First skill name"
+msgstr "Navn på første ferdighet"
+
+#: inc/framework/widgets/front-skills.php:8
+msgid "Astrid FP: Skills"
+msgstr "Astrid FP: Ferdigheter"
+
+#: inc/framework/widgets/front-skills.php:7
+msgid "Show your visitors some of your skills."
+msgstr "Vis dine besøkende noen av dine ferdigheter."
+
+#: inc/framework/widgets/front-services.php:143
+msgid "See all our services"
+msgstr "Se alle våre tjenester"
+
+#: inc/framework/widgets/front-services.php:40
+msgid "The text for the button [Defaults to <em>See all our services</em> if left empty]"
+msgstr "Teksten på knappen [Standariseres til <em> Se alle våre tjenester </em> hvis tom]"
+
+#: inc/framework/widgets/front-services.php:38
+msgid "The URL for your button [In case you want a button below your services block]"
+msgstr "Webadressen til knappen [I tilfelle du ønsker en knapp under tjeneste-blokken]"
+
+#: inc/framework/widgets/front-services.php:34
+msgid "Offset (number of services needs to be different than -1 for this option to work):"
+msgstr "Offset (antall tjenester må være annerledes enn -1 for dette alternativet til å fungere):"
+
+#: inc/framework/widgets/front-services.php:32
+msgid "Number of services to show (-1 shows all of them):"
+msgstr "Antall tjenester som skal vises (-1 viser alle sammen):"
+
+#: inc/framework/widgets/front-services.php:27
+msgid "Tip: to rearrange the services order, edit each service page and add a value in Page Attributes > Order"
+msgstr "Tips: for å omorganisere rekkefølgen på tjenestene, rediger hver tjeneste side og legge til en verdi i Sideegenskaper > Sorter"
+
+#: inc/framework/widgets/front-services.php:26
+msgid "This widget displays all pages that have the Single Service page template assigned to them."
+msgstr "Denne widgeten viser alle sider som har malen Enkel Tjeneste  tildelt dem."
+
+#: inc/framework/widgets/front-services.php:12
+msgid "Astrid FP: Services"
+msgstr "Astrid FP: Tjenester"
+
+#: inc/framework/widgets/front-services.php:11
+msgid "Show what services you are able to provide."
+msgstr "Vis hvilke tjenester du kan tilby."
+
+#: inc/framework/widgets/front-projects.php:142
+msgid "See all our projects"
+msgstr "Se alle våre prosjekter"
+
+#: inc/framework/widgets/front-projects.php:41
+msgid "The text for the button [Defaults to <em>See all our projects</em> if left empty]"
+msgstr "Teksten på knappen [Standariseres til <em> Se alle våre prosjekter </em> hvis tom]"
+
+#: inc/framework/widgets/front-projects.php:39
+msgid "The URL for your button [In case you want a button below your projects block]"
+msgstr "Webadressen til knappen [I tilfelle du ønsker en knapp under prosjekt-blokken]"
+
+#: inc/framework/widgets/front-projects.php:35
+msgid "Offset (number of projects needs to be different than -1 for this option to work):"
+msgstr "Offset (antall prosjekter må være annerledes enn -1 for at dette alternativet skal fungere):"
+
+#: inc/framework/widgets/front-projects.php:33
+msgid "Number of projects to show (-1 shows all of them):"
+msgstr "Antall prosjekter som skal vises (-1 viser alle):"
+
+#: inc/framework/widgets/front-projects.php:28
+msgid "Tip: to rearrange the projects order, edit each project page and add a value in Page Attributes > Order"
+msgstr "Tips: for å omorganisere rekkefølgen av prosjektene, rediger hver prosjekt side og legge til en verdi i Sideegenskaper > Sorter"
+
+#: inc/framework/widgets/front-projects.php:27
+msgid "This widget displays all pages that have the Single Project page template assigned to them."
+msgstr "Denne widgeten viser alle sider som har malen Ekelt Prosjekt tildelt dem."
+
+#: inc/framework/widgets/front-projects.php:12
+msgid "Astrid FP: Projects"
+msgstr "Astrid FP: Prosjekter"
+
+#: inc/framework/widgets/front-projects.php:11
+msgid "Show off your latest projects."
+msgstr "Vis dine siste prosjekter."
+
+#: inc/framework/widgets/front-posts.php:75
+#: inc/framework/widgets/front-posts.php:77
+msgid "See all our news"
+msgstr "Se alle våre nyheter"
+
+#: inc/framework/widgets/front-posts.php:31
+msgid "Add the text for the button here if you want to change the default <em>See all our news</em>"
+msgstr "Legg inn teksten til knappen her hvis du ønsker å endre standarden <em> Se alle våre nyheter </em>"
+
+#: inc/framework/widgets/front-posts.php:28
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr "Skriv inn slug for din kategori eller la stå tomt for å vise poster fra alle kategorier."
+
+#: inc/framework/widgets/front-posts.php:12
+msgid "Astrid FP: Latest News"
+msgstr "Astrid FP: Siste Nyheter"
+
+#: inc/framework/widgets/front-posts.php:11
+msgid "Show the latest news from your blog."
+msgstr "Vis de siste nyhetene fra bloggen din."
+
+#: inc/framework/widgets/front-facts.php:94
+msgid "Fourth fact icon"
+msgstr "Fjerde faktum ikon"
+
+#: inc/framework/widgets/front-facts.php:89
+msgid "Fourth fact value"
+msgstr "Fjerde fakta verdi"
+
+#: inc/framework/widgets/front-facts.php:84
+msgid "Fourth fact name"
+msgstr "Fjerde fakta navn"
+
+#: inc/framework/widgets/front-facts.php:78
+msgid "Third fact icon"
+msgstr "Tredje fakta ikon"
+
+#: inc/framework/widgets/front-facts.php:73
+msgid "Third fact value"
+msgstr "Tredje fakta verdi"
+
+#: inc/framework/widgets/front-facts.php:68
+msgid "Third fact name"
+msgstr "Tredje fakta navn"
+
+#: inc/framework/widgets/front-facts.php:62
+msgid "Second fact icon"
+msgstr "Andre fakta ikon"
+
+#: inc/framework/widgets/front-facts.php:57
+msgid "Second fact value"
+msgstr "Andre fakta verdi"
+
+#: inc/framework/widgets/front-facts.php:52
+msgid "Second fact name"
+msgstr "Andre fakta navn"
+
+#: inc/framework/widgets/front-facts.php:46
+msgid "First fact icon"
+msgstr "Første fakta ikon"
+
+#: inc/framework/widgets/front-facts.php:41
+msgid "First fact value"
+msgstr "Første fakta verdi"
+
+#: inc/framework/widgets/front-facts.php:36
+msgid "First fact name"
+msgstr "Første fakta navn"
+
+#: inc/framework/widgets/front-facts.php:28
+msgid "Usage example: <strong>fa-android</strong>"
+msgstr "Eksempel for bruk: <strong>fa-android</strong>"
+
+#: inc/framework/widgets/front-facts.php:28
+msgid "here."
+msgstr "her."
+
+#: inc/framework/widgets/front-facts.php:28
+msgid "You can find a list of the available icons "
+msgstr "Du kan finne en liste av de tilgjengelige ikonene"
+
+#: inc/framework/widgets/front-facts.php:8
+msgid "Astrid FP: Facts"
+msgstr "Astrid FP: Fakta"
+
+#: inc/framework/widgets/front-facts.php:7
+msgid "Show your visitors some facts about your company."
+msgstr "Vis dine besøkende fakta om din bedrift."
+
+#: inc/framework/widgets/front-employees.php:142
+msgid "See all our employees"
+msgstr "Se alle våre ansatte"
+
+#: inc/framework/widgets/front-employees.php:40
+msgid "The text for the button [Defaults to <em>See all our employees</em> if left empty]"
+msgstr "Teksten på knappen [Standariseres til <em> Se alle våre medarbeidere </em> hvis tom]"
+
+#: inc/framework/widgets/front-employees.php:38
+msgid "The URL for your button [In case you want a button below your employees block]"
+msgstr "Webadressen til knappen [I tilfelle du ønsker en knapp under ansatte-blokken]"
+
+#: inc/framework/widgets/front-employees.php:34
+msgid "Offset (number of employees needs to be different than -1 for this option to work):"
+msgstr "Offset (antall ansatte må være annerledes enn -1 for at dette alternativet skal fungere):"
+
+#: inc/framework/widgets/front-employees.php:32
+msgid "Number of employees to show (-1 shows all of them):"
+msgstr "Antall ansatte som skal vises (-1 viser alle):"
+
+#: inc/framework/widgets/front-employees.php:27
+msgid "Tip: to rearrange the employees order, edit each employee page and add a value in Page Attributes > Order"
+msgstr "Tips: for å omorganisere rekkefølgen på de ansatte, rediger hver ansatt side og legge til en verdi i Sideegenskaper > Sorter"
+
+#: inc/framework/widgets/front-employees.php:26
+msgid "This widget displays all pages that have the Single Employee page template assigned to them."
+msgstr "Denne widgeten viser alle sider som har malen Enkelt Ansatt tildelt dem."
+
+#: inc/framework/widgets/front-employees.php:12
+msgid "Astrid FP: Employees"
+msgstr "Astrid FP: Ansatte"
+
+#: inc/framework/widgets/front-employees.php:11
+msgid "Show your employees"
+msgstr "Vis dine ansatte"
+
+#: inc/framework/widgets/front-clients.php:139
+msgid "See all our clients"
+msgstr "Se alle våre klienter"
+
+#: inc/framework/widgets/front-clients.php:41
+msgid "The text for the button [Defaults to <em>See all our clients</em> if left empty]"
+msgstr "Teksten på knappen [Standariseres til <em> Se alle våre kunder </em> hvis tom]"
+
+#: inc/framework/widgets/front-clients.php:39
+msgid "The URL for your button [In case you want a button below your clients block]"
+msgstr "Webadressen til knappen [I tilfelle du ønsker en knapp under kunde-blokken]"
+
+#: inc/framework/widgets/front-clients.php:37
+#: inc/framework/widgets/front-employees.php:36
+#: inc/framework/widgets/front-projects.php:37
+#: inc/framework/widgets/front-services.php:36
+#: inc/framework/widgets/front-testimonials.php:37
+msgid "Page IDs to display in this widget (separated by commas, example: 14,810,220). Note: you can find the page ID in the URL bar while editing your page."
+msgstr "Side IDer som skal vises i denne widgeten (adskilt med komma, f.eks: 14, 810, 220). Merk: Du kan finne side ID i URL baren mens du redigerer siden din."
+
+#: inc/framework/widgets/front-clients.php:35
+msgid "Offset (number of clients needs to be different than -1 for this option to work):"
+msgstr "Offset (antall klienter må være annerledes enn -1 for at dette alternativet skal fungere):"
+
+#: inc/framework/widgets/front-clients.php:33
+msgid "Number of clients to show (-1 shows all of them):"
+msgstr "Antall klienter som skal vises (-1 viser alle):"
+
+#: inc/framework/widgets/front-clients.php:30
+#: inc/framework/widgets/front-employees.php:29
+#: inc/framework/widgets/front-facts.php:30
+#: inc/framework/widgets/front-posts.php:24
+#: inc/framework/widgets/front-projects.php:30
+#: inc/framework/widgets/front-services.php:29
+#: inc/framework/widgets/front-skills.php:27
+#: inc/framework/widgets/front-testimonials.php:30
+#: inc/framework/widgets/video-widget.php:17
+msgid "Title"
+msgstr "Tittel"
+
+#: inc/framework/widgets/front-clients.php:28
+msgid "Tip: to rearrange the clients order, edit each client page and add a value in Page Attributes > Order"
+msgstr "Tips: for å omorganisere kundesorteringen, rediger hver klientside og legge til en verdi i Sideegenskaper > Sorter"
+
+#: inc/framework/widgets/front-clients.php:27
+msgid "This widget displays all pages that have the Client Service page template assigned to them."
+msgstr "Denne widgeten viser alle sider som har malen Klient Tjeneste  tildelt dem."
+
+#: inc/framework/widgets/front-clients.php:12
+msgid "Astrid FP: Clients"
+msgstr "Astrid FP: Klienter"
+
+#: inc/framework/widgets/front-clients.php:11
+msgid "Show a list of your clients."
+msgstr "Vis en liste av dine klienter."
+
+#: inc/framework/widget-options.php:67
+msgid "Remove container?"
+msgstr "Fjerne beholder?"
+
+#: inc/framework/widget-options.php:64
+msgid "Top/bottom padding [px]"
+msgstr "Topp/bunn padding [px]"
+
+#: inc/framework/widget-options.php:56
+msgid "1/3 Width"
+msgstr "1/3 Bredde"
+
+#: inc/framework/widget-options.php:55
+msgid "1/2 Width"
+msgstr "1/2 Bredde"
+
+#: inc/framework/widget-options.php:54 inc/framework/widget-options.php:116
+msgid "Full Width"
+msgstr "Full Bredde"
+
+#: inc/framework/widget-options.php:50
+msgid "Widget width:"
+msgstr "Widget bredde:"
+
+#: inc/framework/widget-options.php:47
+msgid "Background image URL"
+msgstr "Bakgrunnsbilde URL"
+
+#: inc/framework/widget-options.php:45
+msgid "Widget title color"
+msgstr "Farge på widget tittel"
+
+#: inc/framework/widget-options.php:43
+msgid "Text color"
+msgstr "Tekstfarge"
+
+#: inc/framework/widget-options.php:41
+msgid "Background color"
+msgstr "Bakgrunnsfarge"
+
+#: inc/framework/widget-options.php:39
+msgid "Section ID"
+msgstr "Sekjsons ID"
+
+#: inc/framework/widget-options.php:38
+msgid "Options found in this panel apply only to this widget."
+msgstr "Alternativene som finnes i dette panelet gjelder bare for denne widgeten."
+
+#: inc/framework/widget-options.php:36
+msgid "Click to expand"
+msgstr "Klikk for å utvide"
+
+#: inc/framework/widget-options.php:36
+msgid "Styling"
+msgstr "Stilsetting"
+
+#: inc/customizer.php:848
+msgid "Footer background"
+msgstr "Footer bakgrunn"
+
+#: inc/customizer.php:827
+msgid "Body text"
+msgstr "Body tekst"
+
+#: inc/customizer.php:807
+msgid "Menu background"
+msgstr "Meny bakgrunn"
+
+#: inc/customizer.php:748
+msgid "Primary color"
+msgstr "Primærfarge"
+
+#: inc/customizer.php:727
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+#: inc/customizer.php:710
+msgid "Email address"
+msgstr "Epost adresse"
+
+#: inc/customizer.php:693
+msgid "Address"
+msgstr "Adresse"
+
+#: inc/customizer.php:677
+msgid "Activate the footer contact and logo area?"
+msgstr "Aktivere footer kontakt og logo-område?"
+
+#: inc/customizer.php:659
+msgid "Contact"
+msgstr "Kontakt"
+
+#: inc/customizer.php:645
+msgid "Upload your footer logo"
+msgstr "Last opp footer logo"
+
+#: inc/customizer.php:628
+msgid "Three"
+msgstr "Tre"
+
+#: inc/customizer.php:627
+msgid "Two"
+msgstr "To"
+
+#: inc/customizer.php:626
+msgid "One"
+msgstr "En"
+
+#: inc/customizer.php:624
+msgid "Choose the number of widget areas in the footer, then go to Appearance > Widgets and add your widgets."
+msgstr "Velg antall widget områder i footer. Gå så til Utseende > Widgeter og legg til widgetene dine."
+
+#: inc/customizer.php:622
+msgid "Footer widget area"
+msgstr "Footer widget område"
+
+#: inc/customizer.php:597
+msgid "Hide featured images?"
+msgstr "Skjul fremhevede bilder?"
+
+#: inc/customizer.php:581
+msgid "Hide post meta?"
+msgstr "Skjul meta for innlegg?"
+
+#: inc/customizer.php:562
+msgid "Excerpt length"
+msgstr "Lengde på utdrag"
+
+#: inc/customizer.php:545
+msgid "Full width single posts?"
+msgstr "Full bredde på enkle innlegg?"
+
+#: inc/customizer.php:530
+msgid "Masonry (grid style)"
+msgstr "Masonry (rutenett stil)"
+
+#: inc/customizer.php:529
+msgid "Full width (no sidebar)"
+msgstr "Full bredde (ingen sidespalte)"
+
+#: inc/customizer.php:528
+msgid "List"
+msgstr "Liste"
+
+#: inc/customizer.php:524
+msgid "Blog layout"
+msgstr "Bloggoppsett"
+
+#: inc/customizer.php:508
+msgid "Blog options"
+msgstr "Blogg valg"
+
+#: inc/customizer.php:495
+msgid "Body font size"
+msgstr "Body skriftstørrelse"
+
+#: inc/customizer.php:475
+msgid "H6 font size"
+msgstr "H6 skriftstørrelse"
+
+#: inc/customizer.php:455
+msgid "H5 font size"
+msgstr "H5 skriftstørrelse"
+
+#: inc/customizer.php:435
+msgid "H4 font size"
+msgstr "H4 skriftstørrelse"
+
+#: inc/customizer.php:415
+msgid "H3 font size"
+msgstr "H3 skriftstørrelse"
+
+#: inc/customizer.php:394
+msgid "H2 font size"
+msgstr "H2 skriftstørrelse"
+
+#: inc/customizer.php:374
+msgid "H1 font size"
+msgstr "H1 skriftstørrelse"
+
+#: inc/customizer.php:354 inc/customizer.php:788
+msgid "Site description"
+msgstr "Side beskrivelse"
+
+#: inc/customizer.php:334 inc/customizer.php:768
+msgid "Site title"
+msgstr "Sidetittel"
+
+#: inc/customizer.php:314
+msgid "Headings font family"
+msgstr "Overskriftstype"
+
+#: inc/customizer.php:297
+msgid "Headings font name/style/sets"
+msgstr "Overskrift navn/stil/sett"
+
+#: inc/customizer.php:280
+msgid "Body font family"
+msgstr "Body skriftstype"
+
+#: inc/customizer.php:262
+msgid "Body font name/style/sets"
+msgstr "Body skritstype navn/stil/sett"
+
+#: inc/customizer.php:247
+msgid "You can use any Google Fonts you want for the heading and/or body. See the fonts here: google.com/fonts. See the documentation if you need help with this: athemes.com/documentation/astrid"
+msgstr "Du kan bruke alle Google Fonts du ønsker for overskrifter og / eller body. Se skriftene her: google.com/fonts. Se dokumentasjonen hvis du trenger hjelp med dette: athemes.com/documentation/astrid"
+
+#: inc/customizer.php:245
+msgid "Fonts"
+msgstr "Fonter"
+
+#: inc/customizer.php:236
+msgid "Centered"
+msgstr "Sentrert"
+
+#: inc/customizer.php:235
+msgid "Inline"
+msgstr "På rekke"
+
+#: inc/customizer.php:214
+msgid "Static"
+msgstr "Statisk"
+
+#: inc/customizer.php:213
+msgid "Sticky"
+msgstr "Festet"
+
+#: inc/customizer.php:210
+msgid "Sticky menu"
+msgstr "Festet meny"
+
+#: inc/customizer.php:192 inc/customizer.php:232
+msgid "Menu style"
+msgstr "Meny stil"
+
+#: inc/customizer.php:182
+msgid "Add a header image for screen widths smaller than 1024px"
+msgstr "Legg til et header bilde for skjermer med en bredde mindre enn 1024px"
+
+#: inc/customizer.php:178
+msgid "Small screens header image"
+msgstr "Liten skjerm header bilde"
+
+#: inc/customizer.php:158
+msgid "Button URL"
+msgstr "Knapp URL"
+
+#: inc/customizer.php:142
+msgid "Button text"
+msgstr "Knapp tekst"
+
+#: inc/customizer.php:126
+msgid "Header small text"
+msgstr "Header kort tekst"
+
+#: inc/customizer.php:93 inc/customizer.php:109
+msgid "Header text"
+msgstr "Header tekst"
+
+#: inc/customizer.php:80
+msgid "Select the header type for all pages except the front page"
+msgstr "Velg type header for alle sider bortsett fra forsiden"
+
+#: inc/customizer.php:78
+msgid "Site header type"
+msgstr "Type header for nettstedet"
+
+#: inc/customizer.php:62 inc/customizer.php:84
+msgid "Only menu"
+msgstr "Kun meny"
+
+#: inc/customizer.php:60 inc/customizer.php:82
+msgid "Image"
+msgstr "Bilde"
+
+#: inc/customizer.php:58
+msgid "Select the header type for your front page"
+msgstr "Velg type header for forsiden din"
+
+#: inc/customizer.php:56
+msgid "Front page header type"
+msgstr "Type header for forside"
+
+#: inc/customizer.php:41
+msgid "Select your header type"
+msgstr "Velg header type"
+
+#: inc/customizer.php:38
+msgid "Header type"
+msgstr "Type header"
+
+#: inc/customizer.php:32
+msgid "Header area"
+msgstr "Header område"
+
+#: inc/customizer.php:13
+msgid "Site branding"
+msgstr "Nettsted branding"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "Hopp over innhold"
+
+#: functions.php:440
+msgid "Theme: %2$s by %1$s."
+msgstr "Tema: %2$s av %1$s."
+
+#: functions.php:437
+msgid "Powered by %s"
+msgstr "Drevet av %s"
+
+#: functions.php:436
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: functions.php:146
+msgid "Footer "
+msgstr "Footer"
+
+#: functions.php:134
+msgid "Use this widget area to build content for the page: "
+msgstr "Bruk dette widget området for å bygge innhold for siden:"
+
+#: functions.php:132
+msgid "Page - "
+msgstr "Side -"
+
+#: functions.php:115
+msgid "Sidebar"
+msgstr "Sidespalte"
+
+#: functions.php:54 inc/customizer.php:607
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:53
+msgid "Primary"
+msgstr "Hoved"
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt."
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr "Eldre kommentarer"
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr "Kommentar navigering"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En tanke om &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanker om &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:32
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prøv å se i de månedlige arkivene. % 1 $ s. %1$s"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det ser ut som ingenting ble funnet på dette stedet. Kanskje prøve en av linkene nedenfor eller et søk i stedet?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Opps! Den siden finnes ikke..."
+
+#. Author URI of the plugin/theme
+msgid "http://athemes.com"
+msgstr "http://athemes.com"
+
+#. Author of the plugin/theme
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Theme URI of the plugin/theme
+msgid "http://athemes.com/theme/astrid"
+msgstr "http://athemes.com/theme/astrid"

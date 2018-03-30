@@ -1,0 +1,198 @@
+#menu {
+	margin-bottom: 0;
+}
+
+#menu-opcao {
+	font-weight: bold;
+}
+
+#carrossel {
+	color: #FFF;
+	text-shadow: 1px 1px 1px #000;
+	background-color: rgba(0, 0, 0, 0.3);
+	border-radius: 10px;
+}
+
+.row {
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+.full-screen {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.legenda {
+  display: inline-block;
+  padding: 10px;
+  background: #B9121B;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+#logo {
+    background-position: center;
+    background-size: 45%;
+}
+
+#sobre-nos {
+	margin-top: 5px;
+}
+
+#equipe-fotos {
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+#equipe {
+	border: 1px solid #ddd;
+    border-color: #7ee7fa;
+    padding: 2px;
+    width: 250px;
+}
+
+#equipe:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+
+#conteudo-sobre {
+	padding-top: 5px;
+}
+
+#paineis-sobre {
+	margin-top: 10px
+}
+
+#banner {
+	padding: 5px;
+	margin-top: 30px;
+}
+
+#banner-marketing {
+	text-align: center;
+	margin-top: 10px;
+	padding: 5px;
+	padding-bottom: 10px;
+}
+
+#destaque {
+	color: red;
+}
+
+#destaque2 {
+	color: lightblue;
+}
+
+@media(min-width: 768px){
+	.projeto-responsivo {
+		width: 50%;
+		float: left;
+	}
+
+	#paineis-sobre {
+		margin-top: 0px;
+	}
+}
+
+#atuacao {
+	margin: auto;
+}
+
+#botoes-atuacao {
+	text-align: center;
+}
+
+.modal-title {
+	text-align: center;
+}
+
+.modal-body {
+	text-indent: 20px
+}
+
+.clique {
+	text-align: center;
+	line-height: 0;
+	margin-bottom: 8px;
+}
+
+#bloco-atuacao {
+	object-position: center;
+	align-items: center;
+	justify-content: space-between; 
+}
+
+.thumbnail {
+	margin-top: 5px;
+}
+
+#borda-botoes {
+	max-inline-size: max-content;
+	margin-top: 0
+}
+
+#btn-serv {
+	padding: 10px;
+	margin: 2px;
+}
+
+#add {
+	text-align: right;
+}
+
+#form-contato {
+	padding-top: 10px;
+}
+
+#bloco-contato {
+	object-position: center;
+	align-items: center;
+	justify-content: space-between;
+}
+
+#contato {
+	margin: auto;
+}
+
+.form-control  {
+	max-inline-size: 480px;
+    min-inline-size: 70%;
+}
+
+#contato-email {
+	max-inline-size: 440px;
+	min-inline-size: 69%;
+}
+
+#contato-select, #grupo-radio {
+	width: 50%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#grupo-radio .radio:first-child {
+	margin-top: 0;
+}
+
+footer {
+	background-color: #333;
+	color: #FFF;
+	padding: 10px;
+	margin-top: 10px
+}
+
+footer address:last-child {
+	margin-bottom: 0;
+}
+
+address {
+	text-align: justify;
+}
+
+#copright {
+	text-align: -webkit-right;
+}
+
